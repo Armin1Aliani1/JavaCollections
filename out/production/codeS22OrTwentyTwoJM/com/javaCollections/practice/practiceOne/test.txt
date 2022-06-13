@@ -1,0 +1,4 @@
+write a java program to replace 
+the second element of a ArrayList 
+with  specified element
+
